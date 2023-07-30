@@ -53,20 +53,20 @@ class Config(object):
     DB_URL = "postgresql://wdsdsw@ldsas/wasassddb"  # postgres sql database link
     # redis database url from redislabs.com
     REDIS_URL = "redis://dsds3@reddsdsuth-1-1.ec2.cloud.redislabs.com:154dsd/Arssddsdsb"
-    TOKEN = "54dssdV8e59Odo"  # bot token from @BotFather
-    DEV_USERS = [5852955057]  # developers id
+    TOKEN = "6516434482:AAFyutvGpS_6ucwx7mwByRLXWIjuJEHGBv0"  # bot token from @BotFather
+    DEV_USERS = [5606649380]  # developers id
     SUDO_USERS = [9656]  # sudo users id
     SUPPORT_USERS = [1909]  # support user ids
     WHITELIST_USERS = [2112, 1212]  # commas for multiple ids
     EVENT_LOGS = -100159  # channel id for gban logs
-    OWNER_ID = 5852955057  # owner id in integer
+    OWNER_ID = 5606649380  # owner id in integer
     ERROR_LOGS = -1001  # support group id
     BOT_NAME = "Himawari"  # your bot name
     ARQ_API_KEY = "SLSFXSsdUXNSMH-ARQ"  # ARQ api key from @ARQRobot
     ARQ_API_URL = "arq.hamker.dev"  # arq link
-    SUPPORT_CHAT = "Ignidsn"  # support group username without @
-    UPDATES_CHANNEL = "Igsd"  # Updates/News Channel username without @
-    BOT_USERNAME = "Himawari_Robot"  # bot username without @
+    SUPPORT_CHAT = "PegasusFederation2"  # support group username without @
+    UPDATES_CHANNEL = "PegasusFederation2"  # Updates/News Channel username without @
+    BOT_USERNAME = "LindXBot"  # bot username without @
     REM_BG_API_KEY = "K2dsdsYma6cZx"  # not necessary
 
 
